@@ -45,7 +45,7 @@
             "id": "6",
             "productName":"...",
             "description":"Available Soon",
-            "amount":"R120",
+            "amount":"R0",
             "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
 
         },
@@ -54,7 +54,7 @@
             "id": "7",
             "productName":"...",
             "description":"Available Soon",
-            "amount":"R120",
+            "amount":"R0",
             "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
 
         },
@@ -63,7 +63,7 @@
             "id": "8",
             "productName":"...",
             "description":"Available Soon",
-            "amount":"R120",
+            "amount":"R0",
             "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
 
         },
@@ -72,7 +72,7 @@
             "id": "9",
             "productName":"...",
             "description":"Available Soon",
-            "amount":"R120",
+            "amount":"R0",
             "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
 
         },
@@ -81,7 +81,7 @@
             "id": "10",
             "productName":"...",
             "description":"Available Soon",
-            "amount":"R120",
+            "amount":"R0",
             "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
 
         },
@@ -90,7 +90,15 @@
             "id": "11",
             "productName":"...",
             "description":"Available Soon",
-            "amount":"R120",
+            "amount":"R0",
+            "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
+
+        },
+        {
+            "id": "12",
+            "productName":"...",
+            "description":"Available Soon",
+            "amount":"R0",
             "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
 
         }
